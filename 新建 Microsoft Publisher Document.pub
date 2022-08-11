@@ -1,0 +1,8 @@
+// Ìí¼Ó±³¾°Í¼Æ¬
+body {
+      background: D:/for fun/nausicaa/2720405_p0_master1200.jpg;//×Ô¼ºÏ²»¶µÄÍ¼Æ¬µØÖ·
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 50% 50%;
+}
